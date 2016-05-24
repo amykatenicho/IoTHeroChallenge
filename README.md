@@ -5,7 +5,7 @@
 - Jump to [Stream Analytics and Power BI Implementation][2]  
 
 [1]:https://github.com/amykatenicho/IoTHeroChallenge#exercise-4-consuming-the-iot-hub-data-from-a-website
-[2]:https://github.com/amykatenicho/IoTHeroChallenge#exercise-2-using-stream-analytics-to-process-the-data
+[2]:https://github.com/Psychlist1972/connectthedots/tree/IoT-Field-Labs/Devices/DirectlyConnectedDevices/WindowsIoTCorePi2FezHat-IoTHubs#consuming-the-iot-hub-data
 
 <a name="Title"></a>
 # Introduction to Azure IoT (Simulated IoT Device)#
