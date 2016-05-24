@@ -1,11 +1,11 @@
 ﻿<a name="HOLTop"></a>
 # IoT Hero Challenge#
 
-- Jump to [Website Implementation][1]
-- Jump to [Stream Analytics and Power BI Implementation][2]  
+- Jump to [Website Implementation][11]
+- Jump to [Stream Analytics and Power BI Implementation][12]  
 
-[1]:https://github.com/amykatenicho/IoTHeroChallenge#exercise-4-consuming-the-iot-hub-data-from-a-website
-[2]:https://github.com/Psychlist1972/connectthedots/tree/IoT-Field-Labs/Devices/DirectlyConnectedDevices/WindowsIoTCorePi2FezHat-IoTHubs#consuming-the-iot-hub-data
+[11]:https://github.com/amykatenicho/IoTHeroChallenge#exercise-4-consuming-the-iot-hub-data-from-a-website
+[12]:https://github.com/Psychlist1972/connectthedots/tree/IoT-Field-Labs/Devices/DirectlyConnectedDevices/WindowsIoTCorePi2FezHat-IoTHubs#consuming-the-iot-hub-data
 
 <a name="Title"></a>
 # Introduction to Azure IoT (Simulated IoT Device)#
